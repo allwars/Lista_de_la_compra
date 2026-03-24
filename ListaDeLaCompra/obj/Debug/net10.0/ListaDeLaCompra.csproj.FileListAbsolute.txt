@@ -1,0 +1,14 @@
+C:\Users\allwa\Downloads\tema 1.NET\Lista_de_la_compra\ListaDeLaCompra\bin\Debug\net10.0\ListaDeLaCompra.exe
+C:\Users\allwa\Downloads\tema 1.NET\Lista_de_la_compra\ListaDeLaCompra\bin\Debug\net10.0\ListaDeLaCompra.deps.json
+C:\Users\allwa\Downloads\tema 1.NET\Lista_de_la_compra\ListaDeLaCompra\bin\Debug\net10.0\ListaDeLaCompra.runtimeconfig.json
+C:\Users\allwa\Downloads\tema 1.NET\Lista_de_la_compra\ListaDeLaCompra\bin\Debug\net10.0\ListaDeLaCompra.dll
+C:\Users\allwa\Downloads\tema 1.NET\Lista_de_la_compra\ListaDeLaCompra\bin\Debug\net10.0\ListaDeLaCompra.pdb
+C:\Users\allwa\Downloads\tema 1.NET\Lista_de_la_compra\ListaDeLaCompra\obj\Debug\net10.0\ListaDeLaCompra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allwa\Downloads\tema 1.NET\Lista_de_la_compra\ListaDeLaCompra\obj\Debug\net10.0\ListaDeLaCompra.AssemblyInfoInputs.cache
+C:\Users\allwa\Downloads\tema 1.NET\Lista_de_la_compra\ListaDeLaCompra\obj\Debug\net10.0\ListaDeLaCompra.AssemblyInfo.cs
+C:\Users\allwa\Downloads\tema 1.NET\Lista_de_la_compra\ListaDeLaCompra\obj\Debug\net10.0\ListaDeLaCompra.csproj.CoreCompileInputs.cache
+C:\Users\allwa\Downloads\tema 1.NET\Lista_de_la_compra\ListaDeLaCompra\obj\Debug\net10.0\ListaDeLaCompra.dll
+C:\Users\allwa\Downloads\tema 1.NET\Lista_de_la_compra\ListaDeLaCompra\obj\Debug\net10.0\refint\ListaDeLaCompra.dll
+C:\Users\allwa\Downloads\tema 1.NET\Lista_de_la_compra\ListaDeLaCompra\obj\Debug\net10.0\ListaDeLaCompra.pdb
+C:\Users\allwa\Downloads\tema 1.NET\Lista_de_la_compra\ListaDeLaCompra\obj\Debug\net10.0\ListaDeLaCompra.genruntimeconfig.cache
+C:\Users\allwa\Downloads\tema 1.NET\Lista_de_la_compra\ListaDeLaCompra\obj\Debug\net10.0\ref\ListaDeLaCompra.dll
